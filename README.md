@@ -1,5 +1,6 @@
 # BitVectorComparator
-Simple circuit to check if two bit vectors are equal (OUTPUT must be 1 when A == B). Written in VHDL.
+-Simple circuit to check if two bit vectors are equal. Written in VHDL.<br />
+-OUTPUT must be 1 when A == B.<br />
 
 ## Built With
 -Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition<br />
